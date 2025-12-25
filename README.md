@@ -1,4 +1,5 @@
 # Conversational AI Fren
+
 ## Overview
 
 This project implements a high-performance, low-latency voice conversational pipeline. It integrates Faster-Whisper for Speech-to-Text (STT), LM Studio for Large Language Model (LLM) inference, and MiraTTS for neural Text-to-Speech (TTS).
@@ -24,9 +25,24 @@ This project implements a high-performance, low-latency voice conversational pip
 3.  **CUDA 12.1 & cuDNN**: Required for GPU acceleration.
 4.  **LM Studio**: Local server must be active on `http://127.0.0.1:1234`.
 
-## Installation
+## Quick Start (the easy way)
 
-Follow these steps to set up the environment on a Windows-based system with an NVIDIA GPU:
+You can now initialize and run the entire pipeline with a single command using `npx`:
+
+```bash
+npx fren-voice
+```
+
+This will automatically:
+
+1. Clone the repository (if not already present).
+2. Create a virtual environment.
+3. Install all CUDA-optimized dependencies.
+4. Launch the AI conversation.
+
+---
+
+## Installation (Traditional)
 
 ### 1. Prerequisites
 
