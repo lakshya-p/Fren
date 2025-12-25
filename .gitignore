@@ -1,0 +1,26 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+bin/
+lib/
+share/
+Include/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Audio files (optional, but good to ignore generated ones)
+# *.wav
+# *.mp3
+
+# Local test outputs
+voice responses/
