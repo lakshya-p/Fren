@@ -1,5 +1,4 @@
-# Voice Conversational AI System (Unified)
-
+# Conversational AI Fren
 ## Overview
 
 This project implements a high-performance, low-latency voice conversational pipeline. It integrates Faster-Whisper for Speech-to-Text (STT), LM Studio for Large Language Model (LLM) inference, and MiraTTS for neural Text-to-Speech (TTS).
