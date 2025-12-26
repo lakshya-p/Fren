@@ -26,9 +26,8 @@ This project implements a high-performance, low-latency voice conversational pip
 4.  **LM Studio**: Local server must be active on `http://127.0.0.1:1234`.
 
 
-## Demo 
-
-<div style="position: relative; padding-bottom: 52.32558139534883%; height: 0;"><iframe src="https://www.loom.com/embed/6b12e9289e5445009a253cb194d46ec4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+## Demo: 
+https://www.loom.com/share/6b12e9289e5445009a253cb194d46ec4)
 
 ## Quick Start (the easy way)
 
